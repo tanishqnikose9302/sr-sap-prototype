@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "type": "PHC", "name": "PHC Kalanji" },
+      "geometry": { "type": "Point", "coordinates": [78.9629, 20.5937] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "type": "School", "name": "Govt High School Bhalsi" },
+      "geometry": { "type": "Point", "coordinates": [78.965, 20.5945] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "type": "WaterWell", "name": "Village Well 3" },
+      "geometry": { "type": "Point", "coordinates": [78.9600, 20.5920] }
+    }
+  ]
+}
